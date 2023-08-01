@@ -11,9 +11,12 @@ while(curr!= null {
 return result.next;
 
 *** Stack<Integer> stck = new Stack<Integer>();
-stck.put(val);
+stck.push(val);
 val = stck.pop();
+empty();
 
 *** HashMap<Integer, Integer> hmp = new HashMap<Integer, Integer>();
 hmp.put(key, val);
 (int) hmp.get(key);
+containsKey
+length
