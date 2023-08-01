@@ -1,0 +1,19 @@
+****** LinkedList Traversing/create dummy head
+
+ListNode curr = new ListNode();
+ListNode result = curr;
+
+while(curr!= null {
+    curr.next = new ListNode(val);
+    curr = curr.next;
+}
+
+return result.next;
+
+*** Stack<Integer> stck = new Stack<Integer>();
+stck.put(val);
+val = stck.pop();
+
+*** HashMap<Integer, Integer> hmp = new HashMap<Integer, Integer>();
+hmp.put(key, val);
+(int) hmp.get(key);
